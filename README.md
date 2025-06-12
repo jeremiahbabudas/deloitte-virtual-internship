@@ -39,5 +39,5 @@ This self-paced simulation is designed to help students explore the kind of work
   =IF(ABS(C2)<=10, "Fair", IF(ABS(C2)<=20, "Unfair", "Highly Discriminative"))
 ## 📁 Files
 
-- `dTask 1 Downtime Dashboard.twb`
+- `Task 1 Downtime Dashboard.twb`
 - `Task 2 Equality Table Complete.xlsx`
