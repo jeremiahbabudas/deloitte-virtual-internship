@@ -25,6 +25,7 @@ This self-paced simulation is designed to help students explore the kind of work
 - Created a **dashboard** linking both charts and enabling filter functionality.
 - Identified and highlighted the factory with the highest total downtime.
 
+
 ### Task 2 – Gender Pay Equality Analysis with Excel
 **Objective:** Analyze compensation equality data across different job roles and locations.
 
