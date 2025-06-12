@@ -36,7 +36,6 @@ This self-paced simulation is designed to help students explore the kind of work
 - Created a new column **"Equality Class"** using Excel formula:
   ```excel
   =IF(ABS(C2)<=10, "Fair", IF(ABS(C2)<=20, "Unfair", "Highly Discriminative"))
-
 ## 📁 Files
 
 - `distanceCalculator.gs` – Google Apps Script code containing core distance and caching functions
