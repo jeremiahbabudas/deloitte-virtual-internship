@@ -1,4 +1,4 @@
-# Deloitte Australia Virtual Job Simulation (Forage)
+# Deloitte Australia Virtual Job Simulation
 
 This repository contains my completed work for the **Deloitte Australia Forensic Technology & Data Analytics Virtual Job Simulation** offered through [Forage](https://www.theforage.com/). The simulation provided hands-on experience with real-world tasks in forensic investigations and data analysis, helping me build confidence and practical skills in a professional services context.
 
