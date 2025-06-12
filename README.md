@@ -2,13 +2,14 @@
 
 This repository contains my completed work for the **Deloitte Australia Forensic Technology & Data Analytics Virtual Job Simulation** offered through [Forage](https://www.theforage.com/). The simulation provided hands-on experience with real-world tasks in forensic investigations and data analysis, helping me build confidence and practical skills in a professional services context.
 
----
+👉 **View the completion certificate here:**  
+[Port of Discharge Estimator – Google Sheet](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_hCcm2LZfaqq9jcwj6_1749715277667_completion_certificate.pdf)
+
 
 ## 📌 Program Overview
 
 This self-paced simulation is designed to help students explore the kind of work Deloitte’s Forensic and Data teams do. It included real-world scenarios, tools like Excel and Tableau, and focused on analytical thinking, data visualization, and equality assessment.
 
----
 
 ## ✅ Tasks Completed
 
@@ -35,3 +36,9 @@ This self-paced simulation is designed to help students explore the kind of work
 - Created a new column **"Equality Class"** using Excel formula:
   ```excel
   =IF(ABS(C2)<=10, "Fair", IF(ABS(C2)<=20, "Unfair", "Highly Discriminative"))
+
+
+  ## 📁 Files
+
+- `distanceCalculator.gs` – Google Apps Script code containing core distance and caching functions
+- `scrapePorts.gs` – Google Apps Script code that scrapes port data from Wikipedia and populates a Google Sheet with port rankings, names, states, and trade statistics.
