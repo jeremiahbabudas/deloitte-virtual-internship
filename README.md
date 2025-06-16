@@ -41,3 +41,8 @@ This self-paced simulation is designed to help students explore the kind of work
 
 - `Task 1 Downtime Dashboard.twb`
 - `Task 2 Equality Table Complete.xlsx`
+
+## 📷 Screenshot
+![Dashboard Screenshot 1](Dashboard1.png)
+![Dashboard Screenshot 2](Dashboard2.png)
+- 
