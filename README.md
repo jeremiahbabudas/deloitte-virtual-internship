@@ -45,4 +45,4 @@ This self-paced simulation is designed to help students explore the kind of work
 ## 📷 Screenshot
 ![Dashboard Screenshot 1](Dashboard1.png)
 ![Dashboard Screenshot 2](Dashboard2.png)
-- 
+![Dashboard Screenshot 2](Screenshot3.png)
